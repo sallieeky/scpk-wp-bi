@@ -51,7 +51,7 @@
         <div class="col-md-12">
             <div class="panel">
                 <div class="panel-body">
-                    <h3><strong>Rank Calon Penerima Beasiswa</strong></h3>
+                    <h3><strong>Daftar Akun Pendaftar Beasiswa</strong></h3>
                     <table class="table table-dashed table-bordered display" id="dataTables">
                         <thead>
                             <tr>
