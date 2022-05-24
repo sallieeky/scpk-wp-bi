@@ -1,0 +1,17 @@
+fitur 
+  1. login
+  2. register
+  3. role admin dan user
+  4. admin ngeliat detail kriteria user
+
+kriteria
+  1. ipk                  benefit
+  2. jml_tanggungan       benefit
+  3. ukt                  cost
+  4. penghasilan_ortu     cost
+
+bobot
+  1. 40
+  2. 10
+  3. 25
+  4. 25
